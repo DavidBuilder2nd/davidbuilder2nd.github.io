@@ -10,17 +10,11 @@ hr {
     border-style: none;
     border-top-style: dotted;
   }
-h1 {
+h1, h2, h3 {
   color: #66BFBF;
 }
 h1:hover {
   background-color: gold;
-}
-h2 {
-  color: #66BFBF;
-}
-h3 {
-  color: #66BFBF;
 }
 
 /******************************CLASS SELECTOR**********************/
