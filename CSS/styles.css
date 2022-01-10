@@ -13,6 +13,9 @@ hr {
 h1 {
   color: #66BFBF;
 }
+h1:hover {
+  background-color: gold;
+}
 h2 {
   color: #66BFBF;
 }
